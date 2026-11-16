@@ -186,3 +186,9 @@ cython_debug/
 
 # Local HPC configuration
 **/config.sh
+
+# Singularity / Apptainer container images
+*.sif
+
+# Serotyping reference databases
+Genome_pipeline/Module04_Serotyping/References/
