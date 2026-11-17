@@ -395,13 +395,13 @@ The repository provides the scripts and example configuration, but does not incl
 
 The following publications describe the principal software tools used for antimicrobial resistance detection and mobile genetic element identification in Module05.
 
-**AMRFinderPlus — Antimicrobial Resistance, Stress Response and Virulence Genes**: Feldgarden, M., Brover, V., Gonzalez-Escalona, N., et al. (2021). AMRFinderPlus and the Reference Gene Catalog facilitate examination of the genomic links among antimicrobial resistance, stress response, and virulence. Scientific Reports, 11, 12728. Software: https://github.com/ncbi/amr
+**AMRFinderPlus**: Feldgarden, M., Brover, V., Gonzalez-Escalona, N., et al. (2021). AMRFinderPlus and the Reference Gene Catalog facilitate examination of the genomic links among antimicrobial resistance, stress response, and virulence. Scientific Reports, 11, 12728. Software: https://github.com/ncbi/amr
 Documentation: https://www.ncbi.nlm.nih.gov/pathogens/antimicrobial-resistance/AMRFinder/
 
-**geNomad — Identification of Mobile Genetic Elements**: Camargo, A. P., Roux, S., Schulz, F., et al. (2024). Identification of mobile genetic elements with geNomad. *Nature Biotechnology*, 42, 1303–1312. Software: https://github.com/apcamargo/genomad
+**geNomad**: Camargo, A. P., Roux, S., Schulz, F., et al. (2024). Identification of mobile genetic elements with geNomad. *Nature Biotechnology*, 42, 1303–1312. Software: https://github.com/apcamargo/genomad
 Documentation: https://portal.nersc.gov/genomad/
 
-**ResFinder — Antimicrobial Resistance Gene Detection**: Bortolaia, V., Kaas, R. S., Ruppe, E., et al. (2020). ResFinder 4.0 for predictions of phenotypes from genotypes. *Journal of Antimicrobial Chemotherapy*, 75(12), 3491–3500. Web resource: https://genepi.food.dtu.dk/resfinder
+**ResFinder**: Bortolaia, V., Kaas, R. S., Ruppe, E., et al. (2020). ResFinder 4.0 for predictions of phenotypes from genotypes. *Journal of Antimicrobial Chemotherapy*, 75(12), 3491–3500. Web resource: https://genepi.food.dtu.dk/resfinder
 
 ## Additional Notes
 
