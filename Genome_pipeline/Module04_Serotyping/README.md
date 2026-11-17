@@ -12,8 +12,8 @@ The workflow is designed for an HPC environment using SLURM job arrays. SeqSero2
 
 | Tool | Version | Purpose |
 |---|---|---|
-| SeqSero2 | 1.3.2 (as documented in the original workflow; verify installed version) | Salmonella serovar prediction based on antigenic determinants |
-| SISTR | 1.0.2 (HPC package tested) | Salmonella serovar prediction and genomic typing |
+| SeqSero2 | 1.3.2 | Salmonella serovar prediction based on antigenic determinants |
+| SISTR | 1.0.2 | Salmonella serovar prediction and genomic typing |
 | Python 3 | Environment-dependent | Parsing SISTR CSV results |
 | SLURM | Cluster-dependent | Submission and management of parallel jobs |
 
@@ -230,6 +230,13 @@ Warnings do not stop the checking script. Samples with missing results remain in
 The current checker does not automatically flag discordant SeqSero2 and SISTR predictions or exclude samples from downstream analyses.
 
 ---
+## References 
+
+The following publications describe the principal software tools used for in silico *Salmonella* serotyping in Module04.
+
+**SeqSero2 — Salmonella Serovar Prediction**:Zhang, S., den Bakker, H. C., Li, S., Chen, J., Dinsmore, B. A., Lane, C., Lauer, A. C., Fields, P. I., & Deng, X. (2019). SeqSero2: Rapid and Improved Salmonella Serotype Determination Using Whole-Genome Sequencing Data. *Applied and Environmental Microbiology*, 85(23), e01746-19. Software: https://github.com/denglab/SeqSero2
+
+**SISTR — Salmonella In Silico Typing Resource**: Yoshida, C. E., Kruczkiewicz, P., Laing, C. R., Lingohr, E. J., Gannon, V. P. J., Nash, J. H. E., & Taboada, E. N. (2016). The Salmonella In Silico Typing Resource (SISTR): An Open Web-Accessible Tool for Rapidly Typing and Subtyping Draft Salmonella Genome Assemblies. *PLOS ONE*, 11(1), e0147101. Software: https://github.com/phac-nml/sistr_cmd
 
 ## Additional Notes
 
