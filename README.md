@@ -4,8 +4,6 @@
 
 A modular bioinformatics pipeline for *Salmonella* genome quality control, assembly, annotation, serotyping, antimicrobial resistance profiling, mobile genetic element detection, prophage characterisation and genomic typing.
 
-**Authors**:
-
 **Authors:**
 
 - [Arezoo Pedramfar](https://github.com/apedramfar) | [Quadram Profile](https://quadram.ac.uk/people/arezoo-pedramfar/)
