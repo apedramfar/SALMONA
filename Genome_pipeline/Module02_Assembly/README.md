@@ -251,4 +251,4 @@ The following publications and resources describe the principal software tools u
 - BWA: https://github.com/lh3/bwa
 - SLURM: https://slurm.schedmd.com/
 
-For detailed methodological explanations and interpretation of quality metrics, see the GitHub Wiki page **Module 02 — Genome Assembly and Quality Assessment**.
+:bulb:For detailed methodological explanations and interpretation of quality metrics, see the GitHub Wiki page **Module 02 — Genome Assembly and Quality Assessment**.
