@@ -232,11 +232,9 @@ The current checker does not automatically flag discordant SeqSero2 and SISTR pr
 ---
 ## References 
 
-The following publications describe the principal software tools used for in silico *Salmonella* serotyping in Module04.
+**SeqSero2 — Salmonella Serovar Prediction**:Zhang, S., den Bakker, H. C., Li, S., Chen, J., Dinsmore, B. A., Lane, C., Lauer, A. C., Fields, P. I., & Deng, X. (2019). SeqSero2: Rapid and Improved Salmonella Serotype Determination Using Whole-Genome Sequencing Data. Applied and Environmental Microbiology, 85(23), e01746-19. Software: https://github.com/denglab/SeqSero2
 
-**SeqSero2 — Salmonella Serovar Prediction**:Zhang, S., den Bakker, H. C., Li, S., Chen, J., Dinsmore, B. A., Lane, C., Lauer, A. C., Fields, P. I., & Deng, X. (2019). SeqSero2: Rapid and Improved Salmonella Serotype Determination Using Whole-Genome Sequencing Data. *Applied and Environmental Microbiology*, 85(23), e01746-19. Software: https://github.com/denglab/SeqSero2
-
-**SISTR — Salmonella In Silico Typing Resource**: Yoshida, C. E., Kruczkiewicz, P., Laing, C. R., Lingohr, E. J., Gannon, V. P. J., Nash, J. H. E., & Taboada, E. N. (2016). The Salmonella In Silico Typing Resource (SISTR): An Open Web-Accessible Tool for Rapidly Typing and Subtyping Draft Salmonella Genome Assemblies. *PLOS ONE*, 11(1), e0147101. Software: https://github.com/phac-nml/sistr_cmd
+**SISTR — Salmonella In Silico Typing Resource**: Yoshida, C. E., Kruczkiewicz, P., Laing, C. R., Lingohr, E. J., Gannon, V. P. J., Nash, J. H. E., & Taboada, E. N. (2016). The Salmonella In Silico Typing Resource (SISTR): An Open Web-Accessible Tool for Rapidly Typing and Subtyping Draft Salmonella Genome Assemblies. PLOS ONE, 11(1), e0147101. Software: https://github.com/phac-nml/sistr_cmd
 
 ## Additional Notes
 
