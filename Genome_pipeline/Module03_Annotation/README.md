@@ -12,7 +12,7 @@ The final step integrates assembly quality metrics, sequencing coverage, dRep cl
 
 | Tool | Version | Purpose |
 |---|---|---|
-| dRep | To be confirmed | Genome dereplication and clustering |
+| dRep | - | Genome dereplication and clustering |
 | Bakta | 1.11.4 | Bacterial genome annotation |
 | Bakta database | v6 | Reference database for annotation |
 | GNU Bash | 5.1.8 | Workflow execution |
@@ -246,3 +246,17 @@ This repository provides the workflow scripts, example configuration, and suppor
 Raw sequencing datasets, reference databases, genome assemblies, and generated analysis outputs are maintained separately.
 
 Users must configure the appropriate software environments, database locations, SLURM resources, and input/output directories before running the workflow.
+
+## Software References and Documentation
+
+The following publications describe the principal software tools used for genome dereplication and annotation in Module03.
+
+**dRep — Genome Dereplication**:Olm, M. R., Brown, C. T., Brooks, B., & Banfield, J. F. (2017). dRep: a tool for fast and accurate genomic comparisons that enables improved genome recovery from metagenomes through de-replication. *The ISME Journal*, 11, 2864–2868. Software:** https://github.com/MrOlm/drep
+- **Documentation:** https://drep.readthedocs.io/
+
+**Bakta — Bacterial Genome Annotation**: Schwengers, O., Jelonek, L., Dieckmann, M. A., Beyvers, S., Blom, J., & Goesmann, A. (2021). Bakta: rapid and standardized annotation of bacterial genomes via alignment-free sequence identification. *Microbial Genomics*, 7(11), 000685. Software: https://github.com/oschwengers/bakta
+- **Documentation:** https://bakta.readthedocs.io/
+
+### Additional information
+
+💡The original pipeline uses Bakta v1.11.4 with database v6 and a configurable 99% ANI threshold for dRep secondary clustering.
