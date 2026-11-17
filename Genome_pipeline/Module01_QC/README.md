@@ -190,15 +190,15 @@ The repository contains workflow scripts and documentation; sequencing datasets,
 
 ### Primary software publications
 
-Hostile: Constantinides, B., Hunt, M., & Crook, D. W. (2023). Hostile: accurate decontamination of microbial host sequences. Bioinformatics, 39(12), btad728. Software: https://github.com/bede/hostile
+**Hostile**: Constantinides, B., Hunt, M., & Crook, D. W. (2023). Hostile: accurate decontamination of microbial host sequences. Bioinformatics, 39(12), btad728. Software: https://github.com/bede/hostile
 
-Trim Galore: Krueger, F., et al. (2023). Trim Galore! v0.6.10. Zenodo. Software release. Software: https://github.com/FelixKrueger/TrimGalore
+**Trim Galore**: Krueger, F., et al. (2023). Trim Galore! v0.6.10. Zenodo. Software release. Software: https://github.com/FelixKrueger/TrimGalore
 
-FastQC: Andrews, S. FastQC: A Quality Control Tool for High Throughput Sequence Data. Babraham Bioinformatics. Software and documentation: https://www.bioinformatics.babraham.ac.uk/projects/fastqc/
+**FastQC**: Andrews, S. FastQC: A Quality Control Tool for High Throughput Sequence Data. Babraham Bioinformatics. Software and documentation: https://www.bioinformatics.babraham.ac.uk/projects/fastqc/
 
-MultiQC: Ewels, P., Magnusson, M., Lundin, S., & Käller, M. (2016). MultiQC: summarize analysis results for multiple tools and samples in a single report. Bioinformatics, 32(19), 3047-3048. Software: https://github.com/MultiQC/MultiQC
+**MultiQC**: Ewels, P., Magnusson, M., Lundin, S., & Käller, M. (2016). MultiQC: summarize analysis results for multiple tools and samples in a single report. Bioinformatics, 32(19), 3047-3048. Software: https://github.com/MultiQC/MultiQC
 
-MetaPhlAn 4: Blanco-Míguez, A., Beghini, F., Cumbo, F., et al. (2023). Extending and improving metagenomic taxonomic profiling with uncharacterized species using MetaPhlAn 4. Nature Biotechnology, 41, 1633–1644. Software: https://github.com/biobakery/MetaPhlAn
+**MetaPhlAn 4**: Blanco-Míguez, A., Beghini, F., Cumbo, F., et al. (2023). Extending and improving metagenomic taxonomic profiling with uncharacterized species using MetaPhlAn 4. Nature Biotechnology, 41, 1633–1644. Software: https://github.com/biobakery/MetaPhlAn
 
 ### Additional dependencies
 jq: https://jqlang.github.io/jq/
