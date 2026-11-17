@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/137ee981-2a2c-4fcf-a85e-655cbf3e0dd0" alt="SALMONA Logo" width="300">
+</p>
+
 # SALMONA
 
 ### Salmonella Omics and Genomic Analysis
