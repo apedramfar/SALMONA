@@ -233,3 +233,22 @@ This repository provides the analysis scripts, example configuration, and workfl
 Raw sequencing datasets, reference databases, generated assemblies, analysis outputs, and large container images are maintained separately.
 
 Users must configure the required software environments, reference database paths, SLURM resources, and input/output locations before executing the workflow.
+
+## References and documentation
+
+The following publications and resources describe the principal software tools used in Module02.
+
+**SPAdes — Genome assembly** :Bankevich, A., Nurk, S., Antipov, D., et al. (2012). SPAdes: A New Genome Assembly Algorithm and Its Applications to Single-Cell Sequencing. *Journal of Computational Biology*, 19(5), 455–477. Software: https://github.com/ablab/spades
+
+**SeqKit — FASTA/Q processing**: Shen, W., Le, S., Li, Y., & Hu, F. (2016). SeqKit: A Cross-Platform and Ultrafast Toolkit for FASTA/Q File Manipulation. *PLOS ONE*, 11(10), e0163962. Software: https://github.com/shenwei356/seqkit
+
+**CoverM — Coverage estimation**: Aroney, S. T., et al. (2025). CoverM: Read alignment statistics for metagenomics. *Bioinformatics*, 41(4), btaf147. Software: https://github.com/wwood/CoverM
+
+**CheckM2 — Genome quality assessment**: Chklovski, A., Parks, D. H., Woodcroft, B. J., & Tyson, G. W. (2023). CheckM2: a rapid, scalable and accurate tool for assessing microbial genome quality using machine learning. *Nature Methods*, 20, 1203–1212. Software: https://github.com/chklovski/CheckM2
+
+**Additional software**
+
+- BWA: https://github.com/lh3/bwa
+- SLURM: https://slurm.schedmd.com/
+
+For detailed methodological explanations and interpretation of quality metrics, see the GitHub Wiki page **Module 02 — Genome Assembly and Quality Assessment**.
