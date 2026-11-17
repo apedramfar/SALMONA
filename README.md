@@ -10,9 +10,10 @@ A modular bioinformatics pipeline for *Salmonella* genome quality control, assem
 
 **Authors**:
 
-Arezoo Pedramfar | Quadram Profile
+**Authors:**
 
-Alise Ponsero | Quadram Profile
+- [Arezoo Pedramfar](https://github.com/apedramfar) | [Quadram Profile](https://quadram.ac.uk/people/arezoo-pedramfar/)
+- [Alise Ponsero](https://github.com/aponsero) | [Quadram Profile](https://quadram.ac.uk/people/alise-ponsero/)
 
 **Developed at:** [Quadram Institute](https://quadram.ac.uk/), Norwich, United Kingdom.
 
