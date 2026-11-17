@@ -8,10 +8,11 @@
 
 A modular bioinformatics pipeline for *Salmonella* genome quality control, assembly, annotation, serotyping, antimicrobial resistance profiling, mobile genetic element detection, prophage characterisation and genomic typing.
 
-**Authors:**
+**Authors**:
 
-- [Arezoo Pedramfar](https://github.com/apedramfar)
-- [Alise Ponsero](https://github.com/aponsero)
+Arezoo Pedramfar | Quadram Profile
+
+Alise Ponsero | Quadram Profile
 
 **Developed at:** [Quadram Institute](https://quadram.ac.uk/), Norwich, United Kingdom.
 
