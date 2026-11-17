@@ -251,10 +251,10 @@ Users must configure the appropriate software environments, database locations, 
 
 The following publications describe the principal software tools used for genome dereplication and annotation in Module03.
 
-**dRep — Genome Dereplication**:Olm, M. R., Brown, C. T., Brooks, B., & Banfield, J. F. (2017). dRep: a tool for fast and accurate genomic comparisons that enables improved genome recovery from metagenomes through de-replication. The ISME Journal, 11, 2864-2868. Software: https://github.com/MrOlm/drep
+**dRep**:Olm, M. R., Brown, C. T., Brooks, B., & Banfield, J. F. (2017). dRep: a tool for fast and accurate genomic comparisons that enables improved genome recovery from metagenomes through de-replication. The ISME Journal, 11, 2864-2868. Software: https://github.com/MrOlm/drep
 Documentation: https://drep.readthedocs.io/
 
-**Bakta — Bacterial Genome Annotation**: Schwengers, O., Jelonek, L., Dieckmann, M. A., Beyvers, S., Blom, J., & Goesmann, A. (2021). Bakta: rapid and standardized annotation of bacterial genomes via alignment-free sequence identification. Microbial Genomics, 7(11), 000685. Software: https://github.com/oschwengers/bakta
+**Bakta**: Schwengers, O., Jelonek, L., Dieckmann, M. A., Beyvers, S., Blom, J., & Goesmann, A. (2021). Bakta: rapid and standardized annotation of bacterial genomes via alignment-free sequence identification. Microbial Genomics, 7(11), 000685. Software: https://github.com/oschwengers/bakta
 Documentation: https://bakta.readthedocs.io/
 
 ### Additional information
