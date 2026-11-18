@@ -85,7 +85,7 @@ Please use [GitHub Issues](https://github.com/apedramfar/Salmonella-Genomics-and
 
 ## Funding
 
-The development of SALMONA was undertaken at the Quadram Institute as part of the research project *“Mechanism of multiple drug resistance and genetic evolution of prevalent Salmonella serotypes derived from animals”* (Grant reference: MR/Y0152311).
+SALMONA was developed at the Quadram Institute as part of the Medical Research Council (MRC)-funded project *“Mechanism of multiple drug resistance and genetic evolution of prevalent Salmonella serotypes derived from animals”* (Grant MR/Y0152311).
 
 ## Citation
 
