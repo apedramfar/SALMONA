@@ -40,7 +40,7 @@ Modules can be configured and executed according to their input requirements. De
 
 ```bash
 git clone https://github.com/apedramfar/Salmonella-Genomics-and-Evolution.git
-cd Salmonella-Genomics-and-Evolution
+cd SALMONA
 ```
 
 **2. Configure a module**
