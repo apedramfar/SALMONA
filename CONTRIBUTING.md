@@ -1,5 +1,5 @@
 
-# Contributing to SALMONA
+# Contributing to SALMONA 
 
 Thank you for your interest in contributing to SALMONA (Salmonella Omics and Genomic Analysis).
 
