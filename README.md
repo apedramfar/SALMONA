@@ -83,6 +83,10 @@ Feedback, suggestions and constructive comments are very welcome and greatly app
 
 Please use [GitHub Issues](https://github.com/apedramfar/Salmonella-Genomics-and-Evolution/issues) to report problems or suggest improvements.
 
+## Funding
+
+The development of SALMONA was undertaken at the Quadram Institute as part of the research project *“Mechanism of multiple drug resistance and genetic evolution of prevalent Salmonella serotypes derived from animals”* (Grant reference: MR/Y0152311).
+
 ## Citation
 
 A dedicated citation for SALMONA is not yet available. If you use or adapt these workflows, please cite the relevant original software publications provided in the module documentation. Citation information will be updated when available.
