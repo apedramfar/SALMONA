@@ -1,45 +1,39 @@
+# Contributing to SALMONA
 
-# Contributing to SALMONA 
+Thank you for your interest in SALMONA (*Salmonella Omics and Genomic Analysis*).
 
-Thank you for your interest in contributing to SALMONA (Salmonella Omics and Genomic Analysis).
-
-We welcome feedback, bug reports, documentation improvements and contributions that enhance the reproducibility, accuracy and usability of the workflows.
+Feedback, suggestions and contributions that improve the documentation, reproducibility and functionality of the workflows are welcome.
 
 ## Reporting Issues
 
 Please use [GitHub Issues](https://github.com/apedramfar/SALMONA/issues) to report problems or suggest improvements.
 
-When reporting an issue, please include:
+Where relevant, include:
 
-- The affected module and script
-- A description of the problem
-- The command used and relevant error messages
-- Software versions and computing environment, where applicable
+- The affected module or script
+- A brief description of the issue
+- Relevant commands and error messages
+- Software versions and computing environment
 
-💡 Please do not share confidential datasets, credentials or sensitive file paths.
+Please do not include confidential data, credentials or sensitive file paths.
 
-## Contributing Code
+## Contributing Changes
 
-1. Create a new branch from `main`.
-2. Make and document your changes.
-3. Check your scripts and update relevant documentation.
-4. Open a pull request describing the changes.
-5. Review and discuss the changes before merging into `main`.
+If you would like to suggest a change:
 
-## Development Guidelines
+1. Create a branch from `main`.
+2. Make and document your modifications.
+3. Check the affected scripts and update relevant documentation.
+4. Submit a pull request describing the proposed changes.
 
-- Maintain the modular Bash/SLURM workflow structure.
-- Use clear filenames, comments and variable names.
-- Keep environment-specific paths and settings in local configuration files.
-- Update example configurations and module documentation when necessary.
-- Record significant changes in `CHANGELOG.md`.
+Contributions will be reviewed for relevance, compatibility and suitability before merging.
 
-## Testing
+## Development Considerations
 
-Where possible, test changes using appropriate research datasets and the intended HPC environment.
+SALMONA was developed for a Linux-based HPC environment using Bash and SLURM. Changes should, where possible, preserve the existing workflow structure and use configurable paths rather than environment-specific settings.
 
-Include relevant testing information in pull requests. Not all workflows can be tested outside the original computing environment.
+Testing information should be included when available. Some analyses may require access to specialised software, databases or HPC resources.
 
-## Questions and Suggestions
+## Questions and Feedback
 
-Questions, feedback and suggestions are welcome through [GitHub Issues](https://github.com/apedramfar/SALMONA/issues).
+Questions and suggestions can be submitted through [GitHub Issues](https://github.com/apedramfar/SALMONA/issues).
