@@ -15,7 +15,7 @@ A modular bioinformatics pipeline for *Salmonella* genome quality control, assem
 
 ## Overview
 
-SALMONA provides modular workflows for analysing the genomic diversity, antimicrobial resistance and evolutionary relationships of animal-derived *Salmonella* isolates.
+SALMONA provides modular workflows for analysing short-read whole-genome sequencing data to investigate genomic diversity, antimicrobial resistance and evolutionary relationships among animal-derived *Salmonella* isolates.
 
 The workflows were developed for a Linux HPC environment using SLURM and can be adapted to other bacterial datasets with appropriate reference databases and analysis parameters.
 
