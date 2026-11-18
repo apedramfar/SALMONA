@@ -77,6 +77,10 @@ This repository contains the current modular research workflows. A more fully in
 
 Details of the complete pipeline and associated publications will be added when available.
 
+### For Quadram Institute Users
+
+SALMONA is currently configured for the Quadram Institute's HPC environment. Quadram users interested in running the workflows are welcome to contact us for the required software packages, environment settings and relevant paths. More detailed installation and configuration instructions will be added as the pipeline develops.
+
 ## Feedback and Contributions
 
 Feedback, suggestions and constructive comments are very welcome and greatly appreciated.
