@@ -9,6 +9,10 @@ A modular bioinformatics pipeline for *Salmonella* genome quality control, assem
 - [Arezoo Pedramfar](https://github.com/apedramfar) | [Quadram Profile](https://quadram.ac.uk/people/arezoo-pedramfar/)
 - [Alise Ponsero](https://github.com/aponsero) | [Quadram Profile](https://quadram.ac.uk/people/alise-ponsero/)
 
+**Supervision:**
+
+- [Prof. Evelien Adriaenssens](https://quadram.ac.uk/people/evelien-adriaenssens/) | [QIB Research Group](https://quadram.ac.uk/evelien-adriaenssens/)
+
 **Developed at:** [Quadram Institute](https://quadram.ac.uk/), Norwich, United Kingdom.
 
 **Status:** Research workflows under development.
