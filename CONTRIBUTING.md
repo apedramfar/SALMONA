@@ -28,12 +28,6 @@ If you would like to suggest a change:
 
 Contributions will be reviewed for relevance, compatibility and suitability before merging.
 
-## Development Considerations
-
-SALMONA was developed for a Linux-based HPC environment using Bash and SLURM. Changes should, where possible, preserve the existing workflow structure and use configurable paths rather than environment-specific settings.
-
-Testing information should be included when available. Some analyses may require access to specialised software, databases or HPC resources.
-
 ## Questions and Feedback
 
 Questions and suggestions can be submitted through [GitHub Issues](https://github.com/apedramfar/SALMONA/issues).
