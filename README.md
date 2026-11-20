@@ -17,7 +17,7 @@ A modular bioinformatics pipeline for *Salmonella* genome quality control, assem
 
 **Status:** Research workflows under development.
 
-💡 **Tip:** Although SALMONA was developed for Salmonella, several modules can be adapted for use with other bacterial species by replacing the relevant reference databases, tool settings, and analysis parameters. The serotyping workflow is specific to Salmonella, while the typing workflow requires suitable species-specific typing schemes and reference schemas.
+💡 **Tip:** Although SALMONA was developed for *Salmonella*, several modules can be adapted for use with other bacterial species by replacing the relevant reference databases, tool settings, and analysis parameters. The serotyping workflow is specific to *Salmonella*, while the typing workflow requires suitable species-specific typing schemes and reference schemas.
 
 ## Overview
 
