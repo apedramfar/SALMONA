@@ -17,6 +17,8 @@ A modular bioinformatics pipeline for *Salmonella* genome quality control, assem
 
 **Status:** Research workflows under development.
 
+💡 **Tip:** Although SALMONA was developed for Salmonella, several modules can be adapted for use with other bacterial species by replacing the relevant reference databases, tool settings, and analysis parameters. The serotyping workflow is specific to Salmonella, while the typing workflow requires suitable species-specific typing schemes and reference schemas.
+
 ## Overview
 
 SALMONA provides modular workflows for analysing short-read whole-genome sequencing data to investigate genomic diversity, antimicrobial resistance and evolutionary relationships among animal-derived *Salmonella* isolates.
@@ -43,7 +45,7 @@ Modules can be configured and executed according to their input requirements. De
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/apedramfar/Salmonella-Genomics-and-Evolution.git
+git clone https://github.com/apedramfar/SALMONA.git
 cd SALMONA
 ```
 
